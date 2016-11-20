@@ -1,0 +1,9 @@
+.jumbotron {
+  background-image: url("my-own-picture/background6.jpeg");
+  background-size: cover;
+  
+}
+.card-img-top{width:100px;height:90px;}
+.card{background-image:url(http://a4.att.hudong.com/21/07/01000000000000119090751123221_s.jpg);
+background-size: cover}
+a{background-image:url(my-own-picture/little-sheep.jpeg);}
